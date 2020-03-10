@@ -1,0 +1,52 @@
+body{
+    background-color: lightblue;
+    margin: 0;
+}
+
+/* .block{
+    background-color: lightcoral;
+    width: 100px;
+    height: 100vh;
+}
+
+.block2{
+    background-color: black;
+    width: 200px;
+    height: 100vh;
+    position: absolute;
+    right: 0;
+    top: 0;
+} */
+
+.eye{
+   background-color: white;
+   height: 200px;
+   width: 200px;
+    border-radius: 50%;
+    position: absolute;
+    left:50%;
+    top: 50%;
+    margin-left: -100px;
+    margin-top: -100px;
+}
+
+
+.pupil{
+    background-color: black;
+    height: 50px;
+    width: 50px;
+     border-radius: 50%;
+     position: absolute;
+     left:50%;
+     top: 50%;
+     margin-left: -25px;
+     margin-top: -25px;
+}
+
+.eye1{
+    margin-left: -225px;
+}
+
+.eye2{
+    margin-left: 25px;
+}
